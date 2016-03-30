@@ -1,3 +1,9 @@
+
+Devoir 2:
+	Ecrivez une EXPRESSION en javaScript pour valider une date en format ISO en incluant les fus oraire.
+
+SOLUTION:
+
 (
 	([02468][048]|[13579][26])([02468][048]|[13579][26])-                   //leap year
 	(                                                                      //month-day for leap year
